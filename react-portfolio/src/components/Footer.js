@@ -7,7 +7,9 @@ import React from 'react';
 function Footer() {
     return(
         <div>
-            This is a footer
+            <div className='footer'>
+                Made with ❤️ by Stephen Wright | Find me around the web [LinkdIn here] [GitHub here] 
+            </div>
         </div>
     )
 }

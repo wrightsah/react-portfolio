@@ -76,3 +76,8 @@ img {
 .contact-form {
   font-family: 'Noto Sans', sans-serif;
 }
+
+.footer {
+  background: rgb(7, 100, 38);
+  color: white;
+}
