@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+/* styling from original portfolio page */
+
+body {
+  background-color: #ebe8e6;
+}
+
+h1 {
+  padding: 15px;
+  font-family: 'Noto Serif', serif;
+}
+
+h4 {
+  font-family: 'Noto Serif', serif;
+}
+
+p { 
+  padding: 15px;
+  font-family: 'Noto Sans', sans-serif;
+  color: #7d7f77;
+}
+
+main {
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+section {
+  background-color: #ffffff;
+}
+
+img {
+  width: 350px;
+  padding: 15px;
+}
+
+.contact-form {
+  font-family: 'Noto Sans', sans-serif;
+}
