@@ -8,7 +8,7 @@ function Footer() {
     return(
         <div>
             <div className='footer'>
-                Made with ❤️ by Stephen Wright | Find me around the web [LinkdIn here] [GitHub here] 
+                Made with ❤️ by Stephen Wright | Find me around the web [LinkedIn here] [GitHub here] 
             </div>
         </div>
     )

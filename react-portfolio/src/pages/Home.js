@@ -7,16 +7,16 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <div class="container">
-        <div class="col-md-10">
-          <div class="row">
-            <h1 class="col-md-10">About Me</h1>
+      <div className="container">
+        <div className="col-md-10">
+          <div className="row">
+            <h1 className="col-md-10">About Me</h1>
             <hr />
           </div>
-          <div class="row">
+          <div className="row">
             <div>
               <img
-                class="float-left"
+                className="float-left"
                 src='../assets/profileimage'
                 alt="Profile"
               />

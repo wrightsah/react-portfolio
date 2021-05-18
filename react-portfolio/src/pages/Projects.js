@@ -6,19 +6,19 @@ import React from 'react';
 const Portfolio = () => {
     return (
         <div>
-            <main class="container">
+            <main className="container">
 
-<section class="col-md-10">
-  <div class="row">
-    <h1 class="col-md-12">Portfolio</h1>
+<section className="col-md-10">
+  <div className="row">
+    <h1 className="col-md-12">Portfolio</h1>
   </div>
   <div class="row">
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
-      <img class="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
+      <img className="placeholder" src="https://via.placeholder.com/350" alt="Placeholder" />
   </div>
 </section>
 
